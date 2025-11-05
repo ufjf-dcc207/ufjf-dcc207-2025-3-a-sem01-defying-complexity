@@ -1,0 +1,11 @@
+[
+    {
+        "nome":"Medusa",
+        "imagem":"srceda",
+        "cor_principal":"green",
+        "cor_secundaria":"black",
+        "descricao":"perdaasdasd",
+        "periculosidade":12,
+        "mitologia":"grega"  
+    }
+]
