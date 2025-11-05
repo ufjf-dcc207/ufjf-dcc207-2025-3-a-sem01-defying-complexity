@@ -1,0 +1,68 @@
+/* 
+Bestiário - Cores
+#85ba59
+#93c26b
+#a1c97e
+#afd190
+#bcd9a2
+#cae0b4
+
+#121212
+#282828
+#3f3f3f
+#575757
+#717171
+
+*/
+
+@font-face {
+    font-family: 'gliphos-font';
+    src: url('../fonts/iokharic/Iokharic-dqvK.ttf') format('truetype');
+}
+
+.bestiario-container {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-container {
+    display: flex;
+    width: 100%;
+    text-align: center;
+    flex-direction: column;
+    background-color: #121212;
+    padding: 10px 0px;
+}
+
+
+
+.gliphos{
+    display: flex;
+    color: #4a5242fe;
+    font-family: 'gliphos-font';
+    font-size: 2rem;
+    margin-bottom: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.bestiario-container h1 {
+    color: #85ba59;
+    font-size: 5rem;
+    margin: 0;
+    padding: 0;
+}
+
+.bestiario-container p {
+    color: #bcd9a2;
+    font-size: 1.5rem;
+    margin: 10px 0px;
+}
+
+.bestiario-container{
+    background-color: #282828;
+}

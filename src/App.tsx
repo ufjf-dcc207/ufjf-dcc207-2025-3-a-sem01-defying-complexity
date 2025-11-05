@@ -1,4 +1,5 @@
-import Bestiario from "./Bestiario";
+import Bestiario from "./bestiario/Bestiario";
+import "./App.css"
 
 export default function App() {
 
